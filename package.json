@@ -6,6 +6,7 @@
 		"lint-fix": "run-p 'lint:* -- --fix'",
 		"lint:css": "stylelint source/**/*.css",
 		"lint:js": "xo",
+		"safari": "xcrun safari-web-extension-converter ./source",
 		"test": "run-p lint:* build",
 		"watch": "parcel watch source/manifest.json --dist-dir distribution --no-cache --no-hmr"
 	},

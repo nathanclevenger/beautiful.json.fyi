@@ -1,8 +1,8 @@
 {
-	"name": "Awesome Extension",
-	"version": "0.0.0",
-	"description": "An awesome new browser extension",
-	"homepage_url": "https://github.com/fregante/browser-extension-template",
+	"name": "Beautiful JSON",
+	"version": "0.1.0",
+	"description": "Browser Plugin for Beautiful JSON Rendering",
+	"homepage_url": "https://github.com/nathanclevenger/beautiful.json.fyi",
 	"manifest_version": 3,
 	"minimum_chrome_version": "100",
 	"browser_specific_settings": {
